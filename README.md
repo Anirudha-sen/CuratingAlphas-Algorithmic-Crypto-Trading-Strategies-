@@ -31,4 +31,4 @@ This project explores alpha-generating trading strategies for the **BTCUSDT** an
 
 ## Evaluation Period
 
-2019–2023
+2019–2024
